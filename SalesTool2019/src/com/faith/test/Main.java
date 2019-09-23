@@ -13,7 +13,7 @@ public class Main {
 	
 	private static void displayGreetings(){
 		
-		System.out.println("Greetings");
+		System.out.println("Greetings Edited");
 	}
 
 }
